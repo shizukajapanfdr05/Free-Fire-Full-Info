@@ -1,0 +1,7 @@
+{
+  "name": "Free Fire Player Info Tracker",
+  "description": "Lookup and inspect Free Fire player profile, level, battle royale & clash squad rank, guild details, pet stats, and history by UID and Server.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
